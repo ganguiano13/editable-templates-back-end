@@ -1,0 +1,12 @@
+{
+  "firstName": "Gabriel",
+  "lastName": "Anguiano",
+  "streetAddress": "xyz gooner lane",
+  "city": "Brownville",
+  "state": "TX",
+  "postalCode": "78521",
+  "policyNumber": "123456789",
+  "policyEffectiveDate": "01/14/2025",
+  "currentBalance": "113.99",
+  "amountDue": "113.99"
+}
